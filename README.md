@@ -1,2 +1,10 @@
-# learnJS
-This repository contains the projects I created during my process of learning JavaScript. As the focus was primarily on JavaScript during the development of these projects, not much time was spent on CSS.
+# Learning JavaScript 🚀
+
+This repository contains projects I created while learning JavaScript. Since the focus was primarily on JavaScript development, not much time was spent on styling with CSS.
+
+## Project List
+1. [Project Name](project-link): Project description and details.
+2. [Another Project Name](another-project-link): Description for the other project.
+
+## Contributions
+- If you would like to contribute to these projects, please open an [issue](../../issues) or submit a [pull request](../../pulls). Your contributions are welcome!
