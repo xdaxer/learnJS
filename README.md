@@ -3,7 +3,7 @@
 This repository contains projects I created while learning JavaScript. Since the focus was primarily on JavaScript development, not much time was spent on styling with CSS.
 
 ## Project List
-1. [Basic Login Page](https://xdaxer.github.io/demos/Basic-Login-Page): Login Page
+1. [Basic Login Page](https://github.com/xdaxer/learnJS/tree/main/Basic-Login-Page) [Demo}(https://xdaxer.github.io/demos/Basic-Login-Page): Login Page
 2. [Another Project Name](another-project-link): Description for the other project.
 
 ## Contributions
