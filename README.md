@@ -4,7 +4,7 @@ This repository contains projects created while learning JavaScript. The focus w
 
 ## Project List
 1. [Basic Login Page](https://github.com/xdaxer/learnJS/tree/main/Basic-Login-Page) - [Demo](https://xdaxer.github.io/demos/Basic-Login-Page): Simple login page project.
-2. [Test App](https://github.com/xdaxer/learnJS/tree/main/test-app) - [Demo](https://xdaxer.github.io/demos/test-app/): Simple login page project.
+2. [Test App](https://github.com/xdaxer/learnJS/tree/main/test-app) - [Demo](https://xdaxer.github.io/demos/test-app/): Test App
 
 
 ## Contributions
