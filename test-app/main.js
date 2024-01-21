@@ -18,9 +18,6 @@ firstQuestionA.addEventListener("click", function () {
   firstQuestionC.style.color = "white";
   firstQuestionD.style.color = "white";
   btn.style.display = "none";
-
-
-  console.log(`${wrongAnswer}`);
 });
 
 firstQuestionB.addEventListener("click", function () {
@@ -29,9 +26,6 @@ firstQuestionB.addEventListener("click", function () {
   firstQuestionC.style.color = "white";
   firstQuestionD.style.color = "white";
   btn.style.display = "none";
-
-
-  console.log(`${wrongAnswer}`);
 });
 
 firstQuestionC.addEventListener("click", function () {
@@ -40,9 +34,6 @@ firstQuestionC.addEventListener("click", function () {
   firstQuestionC.style.color = "red";
   firstQuestionD.style.color = "white";
   btn.style.display = "none";
-
- 
-  console.log(`${wrongAnswer}`);
 });
 
 firstQuestionD.addEventListener("click", function () {
@@ -268,9 +259,7 @@ function fifthQuestionFun() {
   btn.addEventListener("click", function () {
     document.querySelector("body").innerHTML = `<div>
 
-      <h1> Finish </h1> 
-      <p>wrong count ${wrongAnswer} </p>
-    </div>`;
+      <h1> Finish </h1></div>`;
 
     fourthQuestionA.style.color = "white";
     fourthQuestionB.style.color = "white";
