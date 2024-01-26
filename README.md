@@ -7,6 +7,7 @@ This repository contains projects created while learning JavaScript. The focus w
 2. [Quiz App](https://github.com/xdaxer/learnJS/tree/main/test-app) - [Demo](https://xdaxer.github.io/demos/test-app/): Quiz App
 3. [Note App](https://github.com/xdaxer/learnJS/tree/main/note-app) - [Demo](https://xdaxer.github.io/demos/note-app/): Note Taking App
 4. [Slider](https://github.com/xdaxer/learnJS/tree/main/slider) - [Demo](https://xdaxer.github.io/demos/slider/): Slider of Photos
+5. [Simple Calculator](https://github.com/xdaxer/learnJS/tree/main/Simple-Calculator) - [Demo](https://xdaxer.github.io/demos/Simple-Calculator/): A calculator with which you can perform simple mathematical calculations
 
 
 ## Contributions
